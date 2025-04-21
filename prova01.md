@@ -91,4 +91,4 @@ bottomNavigationBar: Padding(
 
 ![alt text](assets/image2.png)
 
-## 1. Protótipo 2
+## 2. Protótipo 2
