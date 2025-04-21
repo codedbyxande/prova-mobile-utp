@@ -13,7 +13,7 @@ Implementação da tela para calcular o IMC do usuário.
 Criação de 2 inputs: Peso e metros, botão de calcular e o container com o resultado do calculo.
 
 **Como usar**:
-O códig completo está disponível em: [prova01/prototipo01/lib/main.dart](prova01/prototipo01/lib/main.dart)
+O código completo está disponível em: [prova01/prototipo01/lib/main.dart](prova01/prototipo01/lib/main.dart)
 
 Segue o a explicação do código do protótipo 1.
 ```dart
@@ -88,6 +88,7 @@ bottomNavigationBar: Padding(
 ```
 
 **Resultado**:
+
 ![alt text](assets/image2.png)
 
 ## 1. Protótipo 2
