@@ -88,7 +88,7 @@ class _MyHomePageState extends State<MyHomePage> {
         padding: const EdgeInsets.all(16),
         child: ElevatedButton(
           onPressed: _onCalcular,
-          child: const Text('Calcular IMC'),
+          child: const Text('CALCULAR IMC'),
         ),
       ),
     );
