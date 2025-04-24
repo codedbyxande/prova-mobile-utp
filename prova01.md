@@ -392,3 +392,6 @@ class _PerfilArtistaPageState extends State<PerfilArtistaPage> {
 }
 ```
 
+**Resultado**:
+
+![alt text](assets/image3.png)
