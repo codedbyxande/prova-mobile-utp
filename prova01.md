@@ -136,8 +136,8 @@
   )
   ```
 - Center:
-  - descrição:
-  - aplicação: 
+  - descrição: alinhamento do texto. 
+  - aplicação: utilizado para definir o alinhamento central do texto. 
   - como usar:
   ```dart
    Center(
