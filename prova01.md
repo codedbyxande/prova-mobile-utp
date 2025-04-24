@@ -1,4 +1,4 @@
-codedbyxande / pr## Equipe
+## Equipe
 
 - Alexandre Junior Garcia dos Santos
 - Lucas Gabriel Novak
