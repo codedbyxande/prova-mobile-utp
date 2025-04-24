@@ -135,7 +135,20 @@
     ),
   )
   ```
-  
+- Center:
+  - descrição:
+  - aplicação: 
+  - como usar:
+  ```dart
+   Center(
+              child: Text(
+                'Estilo Musical • Pop/Rock', 
+                style: Theme.of(context).textTheme.bodyMedium?.copyWith(
+                  color: Colors.grey[600], // Cinza claro para menor destaque.
+                ),
+              ),
+            ),
+  ```
 **Resultado**:
 
 ![alt text](assets/image3.png)
