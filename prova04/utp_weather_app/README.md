@@ -5,6 +5,8 @@
 **Título:** UTP - App Climático  
 **Versão:** 1.0.0
 **Apk link**: https://drive.google.com/file/d/1oAulkZVHbO1MHSqNN6VnSuZfUP0txgcJ/view?usp=sharing
+**Demo**: https://youtu.be/dOi44vdMBIo
+**Apresentação (canvas)**: https://www.canva.com/design/DAGrU-xGbs8/TAApTxg4lDYtyzwM4XhgKw/edit
 
 
 ### Propósito da Aplicação
