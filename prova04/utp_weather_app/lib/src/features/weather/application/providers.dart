@@ -1,7 +1,7 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:open_weather_example_flutter/src/features/weather/data/weather_repository.dart';
-import 'package:open_weather_example_flutter/src/features/weather/domain/forecast/forecast_data.dart';
-import 'package:open_weather_example_flutter/src/features/weather/domain/weather/weather_data.dart';
+import 'package:utp_app_climatico/src/features/weather/data/weather_repository.dart';
+import 'package:utp_app_climatico/src/features/weather/domain/forecast/forecast_data.dart';
+import 'package:utp_app_climatico/src/features/weather/domain/weather/weather_data.dart';
 
 final cityProvider = StateProvider<String>((ref) {
   return 'Curitiba';

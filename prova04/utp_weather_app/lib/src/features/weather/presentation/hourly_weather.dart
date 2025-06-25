@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:intl/intl.dart';
-import 'package:open_weather_example_flutter/src/constants/app_colors.dart';
-import 'package:open_weather_example_flutter/src/features/weather/application/providers.dart';
-import 'package:open_weather_example_flutter/src/features/weather/data/api_exception.dart';
-import 'package:open_weather_example_flutter/src/features/weather/domain/weather/weather_data.dart';
-import 'package:open_weather_example_flutter/src/features/weather/presentation/weather_icon_image.dart';
+import 'package:utp_app_climatico/src/constants/app_colors.dart';
+import 'package:utp_app_climatico/src/features/weather/application/providers.dart';
+import 'package:utp_app_climatico/src/features/weather/data/api_exception.dart';
+import 'package:utp_app_climatico/src/features/weather/domain/weather/weather_data.dart';
+import 'package:utp_app_climatico/src/features/weather/presentation/weather_icon_image.dart';
 
 class HourlyWeather extends ConsumerWidget {
   const HourlyWeather({super.key});

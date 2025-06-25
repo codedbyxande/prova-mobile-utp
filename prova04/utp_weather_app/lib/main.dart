@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:intl/date_symbol_data_local.dart';
-import 'package:open_weather_example_flutter/src/features/weather/presentation/weather_page.dart';
+import 'package:utp_app_climatico/src/features/weather/presentation/weather_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

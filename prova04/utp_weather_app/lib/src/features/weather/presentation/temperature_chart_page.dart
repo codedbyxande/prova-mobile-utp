@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:intl/intl.dart';
-import 'package:open_weather_example_flutter/src/constants/app_colors.dart';
-import 'package:open_weather_example_flutter/src/features/weather/application/providers.dart';
-import 'package:open_weather_example_flutter/src/features/weather/data/api_exception.dart';
+import 'package:utp_app_climatico/src/constants/app_colors.dart';
+import 'package:utp_app_climatico/src/features/weather/application/providers.dart';
+import 'package:utp_app_climatico/src/features/weather/data/api_exception.dart';
 
 class TemperatureChartPage extends ConsumerWidget {
   const TemperatureChartPage({super.key, required this.city});

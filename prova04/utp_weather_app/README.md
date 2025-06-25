@@ -4,6 +4,8 @@
 
 **Título:** UTP - App Climático  
 **Versão:** 1.0.0
+**Apk link**: https://drive.google.com/file/d/1oAulkZVHbO1MHSqNN6VnSuZfUP0txgcJ/view?usp=sharing
+
 
 ### Propósito da Aplicação
 O UTP - App Climático é um aplicativo móvel desenvolvido em Flutter que permite aos usuários consultar informações meteorológicas em tempo real e previsões para qualquer cidade do mundo. O aplicativo oferece uma interface moderna e intuitiva com design minimalista inspirado no iOS, proporcionando uma experiência de usuário elegante e funcional.
@@ -107,7 +109,7 @@ lib/src/
 git clone [URL_DO_REPOSITORIO]
 
 # Entre no diretório
-cd open_weather_example_flutter
+cd utp_app_climatico
 
 # Instale as dependências
 flutter pub get

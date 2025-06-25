@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.codewithandrea" "\0"
-            VALUE "FileDescription", "open_weather_example_flutter" "\0"
+            VALUE "FileDescription", "utp_app_climatico" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "open_weather_example_flutter" "\0"
+            VALUE "InternalName", "utp_app_climatico" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.codewithandrea. All rights reserved." "\0"
-            VALUE "OriginalFilename", "open_weather_example_flutter.exe" "\0"
-            VALUE "ProductName", "open_weather_example_flutter" "\0"
+            VALUE "OriginalFilename", "utp_app_climatico.exe" "\0"
+            VALUE "ProductName", "utp_app_climatico" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
